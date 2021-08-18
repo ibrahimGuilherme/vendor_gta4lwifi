@@ -1,0 +1,13 @@
+{
+    "Image_Build_IDs": {
+        "common": "Kamorta.LA.1.0.c1.2-00022-STD.PROD-1.383405.0.393289.1", 
+        "glue": "GLUE.KAMORTA_LA.1.0-00731-NOOP_TEST-1", 
+        "modem": "MPSS.HA.1.0.c1.2-00014-KAMORTA_GEN_PACK-1.383405.1.393289.1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Kamorta.LA.1.0.c1.2-00022-STD.PROD-1.383405.0.393289.1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2021-06-14 08:10:45"
+    }, 
+    "Version": "1.0"
+}
